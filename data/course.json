@@ -1,0 +1,32 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Social Science",
+      "Psychology"
+    ],
+    [
+      "Science",
+      "Cognitive Science"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "c1790b5a-b367-8e57-042a-49a3645ef029"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Introduction to Psychology",
+  "course_description": "This course is a survey of the scientific study of human nature, including how the mind works, and how the brain supports the mind. Topics include the mental and neural bases of perception, emotion, learning, memory, cognition, child development, personality, psychopathology, and social interaction. Students will consider how such knowledge relates to debates about nature and nurture, free will, consciousness, human differences, self, and society.\n##### Course Format\n\n* * *\n\n[![Click to get started.](/images/button_start.png)](pages/Syllabus) This course has been designed for independent study. It includes all of the materials you will need to understand the concepts covered in this subject. The materials in this course include:\n\n*   A full set of **Lecture Videos** by Prof. John Gabrieli.\n*   **Reading Assignments** in several books, including one **free online textbook** and detailed notes on another book.\n*   Assorted multiple choice and short answer questions to **Check Yourself** on the material in each session.\n*   Supporting **Discussion** content that elaborates on the lectures and reading.\n*   A rich collection of online resources for **Further Study** on each session's topics.\n*   A full set of **Exams** with solution keys, and extra practice questions for review.",
+  "department_numbers": [
+    "9"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "9.00SC",
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Lecture Notes",
+    "Exams with Solutions"
+  ],
+  "title": "Course Metadata"
+}
